@@ -2,10 +2,13 @@
 #define UNIT_H
 
 
-class Unit
-{
+class Unit {
 public:
-    Unit();
+    virtual ~Unit();
+protected:
+    unsigned short life_duration;
+    unsigned short defence_points;
+    unsigned short hit_points;
 };
 
 #endif // UNIT_H
