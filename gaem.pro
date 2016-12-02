@@ -11,7 +11,8 @@ SOURCES += main.cpp \
     kingdom.cpp \
     danger.cpp \
     plague.cpp \
-    barbariansrush.cpp
+    barbariansrush.cpp \
+    duel.cpp
 
 HEADERS += \
     unit.h \
@@ -21,4 +22,5 @@ HEADERS += \
     kingdom.h \
     danger.h \
     plague.h \
-    barbariansrush.h
+    barbariansrush.h \
+    duel.h
