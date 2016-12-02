@@ -6,7 +6,7 @@
 class Duel {
 public:
     Duel();
-    void fight(); \\singleton
+    void fight(); //singleton
 };
 
 #endif // DUEL_H
