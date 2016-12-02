@@ -8,11 +8,17 @@ SOURCES += main.cpp \
     knight.cpp \
     pickeman.cpp \
     peasant.cpp \
-    kingdom.cpp
+    kingdom.cpp \
+    danger.cpp \
+    plague.cpp \
+    barbariansrush.cpp
 
 HEADERS += \
     unit.h \
     knight.h \
     pickeman.h \
     peasant.h \
-    kingdom.h
+    kingdom.h \
+    danger.h \
+    plague.h \
+    barbariansrush.h
