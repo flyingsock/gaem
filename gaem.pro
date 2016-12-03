@@ -12,7 +12,8 @@ SOURCES += main.cpp \
     danger.cpp \
     plague.cpp \
     barbariansrush.cpp \
-    duel.cpp
+    duel.cpp \
+    cube.cpp
 
 HEADERS += \
     unit.h \
@@ -23,4 +24,5 @@ HEADERS += \
     danger.h \
     plague.h \
     barbariansrush.h \
-    duel.h
+    duel.h \
+    cube.h
